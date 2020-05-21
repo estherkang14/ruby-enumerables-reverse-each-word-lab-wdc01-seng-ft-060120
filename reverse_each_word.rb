@@ -15,5 +15,5 @@ def reverse_each_word (sentence)
     string_word.reverse! 
     reversed_sentence << string_word
   }
-  reversed_setnence.join(" ")
+  reversed_sentence.join(" ")
 end 
